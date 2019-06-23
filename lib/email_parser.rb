@@ -13,5 +13,5 @@ class EmailParser
     @emails.split(/,?\s/)
   end
 
-  parse.parse
+
 end
